@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="welcomeMessage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/welcomeMessage_jar</output-path>
+    <root id="archive" name="welcomeMessage.jar">
+      <element id="module-output" name="welcomeMessage" />
+    </root>
+  </artifact>
+</component>

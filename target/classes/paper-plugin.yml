@@ -1,0 +1,9 @@
+name: welcomeMessage
+version: '1.0-SNAPSHOT'
+main: me.aujung.welcomeMessage.WelcomeMessage
+api-version: '1.21'
+description: A simple plugin that sends customized welcome messages to players.
+commands:
+  welcomereload:
+    description: Reloads the welcome message configuration.
+    usage: /welcomereload
